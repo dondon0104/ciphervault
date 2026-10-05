@@ -1,0 +1,7 @@
+{
+  "name": "cybersecurity_midterm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
